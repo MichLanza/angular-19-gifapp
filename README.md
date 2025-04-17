@@ -4,16 +4,16 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 Practica que refuerza: 
 
--LazyLoad
--Separación de rutas
--Rutas hijas
--Variables de entorno de Angular
--inputs
--Comunicación entre componentes
--RouterOutlets anidados
--Señales
--Propiedades de componentes
--Tailwind
+- LazyLoad
+- Separación de rutas
+- Rutas hijas
+- Variables de entorno de Angular
+- inputs
+- Comunicación entre componentes
+- RouterOutlets anidados
+- Señales
+- Propiedades de componentes
+- Tailwind
 
 ## Development server
 
