@@ -13,8 +13,6 @@ const LoadHistoryFromLocalStorage = () => {
   return history ? JSON.parse(history) : {};
 };
 
-
-
 @Injectable({
   providedIn: 'root'
 })
@@ -67,7 +65,7 @@ export class GifService {
           ...history,
           [query.toLocaleLowerCase()]: gifs,
         }));
-        this.saveHistoryOnLocalStorage;
+
       })
     );
   }
